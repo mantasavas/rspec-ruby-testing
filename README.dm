@@ -1,1 +1,1 @@
-# Practicing BDD tests in Rspecs
+Practicing BDD tests in Rspecs
